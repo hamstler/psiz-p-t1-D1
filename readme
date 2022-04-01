@@ -41,6 +41,11 @@ void Katarzyna_Najmrodzka(void)
 	Katarzyna Najmrodzka
 }
 
+void bartosz_kolewa(void)
+{
+	Bartosz Kolewa
+}
+
 void mateusz_łepik(void)
 {
 	Mateusz Łepik
