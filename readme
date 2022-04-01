@@ -41,8 +41,12 @@ void Katarzyna_Najmrodzka(void)
 	Katarzyna Najmrodzka
 }
 
-void Tomasz_Laszczewski(void)
+void mateusz_łepik(void)
+{
+	Mateusz Łepik
+}
 
+void Tomasz_Laszczewski(void)
 {
 	Tomasz Laszczewski
 }
